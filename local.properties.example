@@ -1,0 +1,3 @@
+# Copy to local.properties (never commit it)
+sdk.dir=/path/to/Android/Sdk
+GEMINI_API_KEY=your_key_from_aistudio.google.com

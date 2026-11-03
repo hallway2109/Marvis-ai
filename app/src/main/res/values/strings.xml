@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Marvis</string>
+    <string name="a11y_description">Lets Marvis read the screen, scroll, tap, open apps and flip system switches when you ask it to.</string>
+</resources>
